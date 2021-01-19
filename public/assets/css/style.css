@@ -351,7 +351,7 @@ a:focus {
     line-height: 35px;
     text-align: center;
     color: #fff;
-    background: #4db849;
+    background: #ffffff;
     position: absolute;
     top: 10px;
     right: 10px;
@@ -383,13 +383,13 @@ a:focus {
 
 #sidebar .sidebar-header {
   /*padding: 30px 0px 10px;
-  /*background: #fff;
-  /color: #4db849;*/
+  /*background: #fff;*/
+  color: #ffffff;
   text-align: center !important;
 }
 
 #sidebar .sidebar-header p {
-  color: #4db849 !important;
+  color: #ffffff !important;
 }
 
 #sidebar ul.components {
@@ -487,20 +487,20 @@ ul.user-auth a {
 
 button.search-sidebar {
     background: #fff;
-    color: #5D2B30;
+    color: #2779B2;
     /*border: 2px solid #4db849;*/
     border:none;
 }
 
 button.search-sidebar:hover {
-    background: #4db849;
+    background: #2779B2;
     color: #fff;
 }
 
 .search_input_sidebar {
     font-family: "Capriola", sans-serif;
     background: transparent !important;
-    color: #4db849 !important;
+    color: #ffffff !important;
     width: 100%;
     display: block;
     border: none;
@@ -513,7 +513,7 @@ button.search-sidebar:hover {
     outline:0px !important;
     -webkit-appearance:none;
     box-shadow: none !important;
-    border-bottom: 2px solid #4db849;
+    border-bottom: 2px solid #ffffff;
 }
 
 .search_input_sidebar::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */

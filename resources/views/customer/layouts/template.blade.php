@@ -509,7 +509,8 @@
         <nav id="sidebar">
             <div class="sidebar-header mx-auto">
                 <a href="{{url('/') }}">
-                    <img src="{{ asset('assets/image/logo-gentong.png') }}" width="70%" height="auto" class="d-inline-block align-top" alt="logo-gentong" loading="lazy">
+                    <i class='fab fa-bootstrap fa-border fa-2x'></i>&nbsp;<b>Logo</b>
+                    <!--<img src="{{ asset('assets/image/logo-gentong.png') }}" width="70%" height="auto" class="d-inline-block align-top" alt="logo-gentong" loading="lazy">-->
                 </a>
             </div>
             <ul class="list-unstyled components">
@@ -551,7 +552,8 @@
                     </button>
                    
                     <a class="navbar-brand nav-center" href="{{ url('/') }}">
-                        <img src="{{ asset('assets/image/logo-gentong.png') }}" class="p-0 m-0 d-inline-block align-top" alt="logo-gentong" loading="lazy">
+                        <p><i class='fab fa-bootstrap fa-border fa-2x'></i>&nbsp;<b>Logo</b></p>
+                        <!--<img src="{{ asset('assets/image/logo.svg') }}" class="p-0 m-0 d-inline-block align-top" alt="logo" loading="lazy" >-->
                     </a>
                     <form action="{{route('search.index')}}" class="form-inline my-2 my-lg-0 ml-auto d-none d-md-inline-block">
                         <div class="input-group">
@@ -593,10 +595,11 @@
 
         <!-- Footer section -->
         <footer id="footer">
-            <div class="d-flex justify-content-center">
-                <div class="col-md-6">
-                    <img src="{{ asset('assets/image/logo-gentong.png') }}" class="img-thumbnail" style="background-color:transparent; border:none;" alt="logo-gentong"> 
-                </div>
+            <div class="d-flex justify-content-center mx-auto">
+                
+                    <i class='fab fa-bootstrap fa-border fa-7x img-thumbnail' style="background-color:transparent; color:#ffffff"></i>
+                    <!--<img src="{{ asset('assets/image/logo-gentong.png') }}" class="img-thumbnail" style="background-color:transparent; border:none;" alt="logo-gentong">--> 
+                
             </div>
             <br><br>
             <div class="row justify-content-center mx-auto" >    
