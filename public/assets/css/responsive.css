@@ -728,7 +728,7 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
+    background-color:#2779B2;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -755,14 +755,14 @@
     }
     
     #card-detail p{
-    color: #6a3137;
+    color: #2779B2;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
+    color: #2779B2;
     font-weight: 900;
     }
 

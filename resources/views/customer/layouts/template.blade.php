@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <title>Ice-Gentong</title>
+    <title>Demo</title>
 
-    <link rel="icon" href="{{ asset('assets/image/logo-gentong-nav.png')}}" type="image/png" sizes="16x16">
+    <link rel="icon" href="" type="image/png" sizes="16x16">
     <!-- Bootstrap CSS CDN -->
     <link href="//db.onlinewebfonts.com/c/3dd6e9888191722420f62dd54664bc94?family=Myriad+Pro" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
@@ -55,7 +55,7 @@
         }
         
         .paddle:hover {
-            background: #6a3137;
+            background: #174C7C;
             color: #fff;
         }
         
@@ -85,12 +85,12 @@
         .row::-webkit-scrollbar-thumb {
             -webkit-border-radius: 10px;
             border-radius: 10px;
-            background: #6a3137;
+            background: #2779B2;
             -webkit-box-shadow: inset 0 0 6px #FDD8AF;
         }
         /* line 30, sass/page/_home.scss */
         .row::-webkit-scrollbar-thumb:window-inactive {
-            background: rgba(255, 0, 0, 0.4);
+            background: rgba(101, 178, 241, 0.877);
         }
         /*Hidden class for adding and removing*/
         .lds-dual-ring.hidden {
@@ -493,7 +493,7 @@
     <div class="preloader" id="preloader">
         <div class="loading">
           <img src="{{ asset('assets/image/preloader.gif') }}" width="80" alt="preloader">
-          <p style="font-weight:900;line-height:2;color:#6a3137;margin-left: -10%;">Harap Tunggu</p>
+          <p style="font-weight:900;line-height:2;color:#174C7C;margin-left: -10%;">Harap Tunggu</p>
         </div>
     </div>
 
@@ -535,10 +535,10 @@
             </ul>
             <div class="mx-auto text-center" style="margin-top: 35px;">
                 <div class="social-icons">
-                    <a href="https://www.facebook.com/Gentongicecream/"  target="_blank"><i class="fab fa-facebook" ></i></a>
-                    <a href="https://instagram.com/gentongicecream?igshid=10b120fidnx58"  target="_blank"><i class="fab fa-instagram "></i></a>
+                    <a href="https://www.facebook.com/"  target="_blank"><i class="fab fa-facebook" ></i></a>
+                    <a href="https://instagram.com/"  target="_blank"><i class="fab fa-instagram "></i></a>
                     <a href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="https://twitter.com/kedaigentong?s=08" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
         </nav>
@@ -547,7 +547,7 @@
             <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" style="z-index: 1.5;">
                 <div class="container-fluid">
                     <button type="button" id="sidebarCollapse" class="btn button-burger-menu">
-                        <i class="fas fa-bars fa-2x" style="color:#693234;"></i>
+                        <i class="fas fa-bars fa-2x" style="color:#ffffff;"></i>
                     </button>
                    
                     <a class="navbar-brand nav-center" href="{{ url('/') }}">
@@ -562,7 +562,7 @@
                               
                         </div>
                     </form>
-                    <a href="#searh_responsive" class="btn btn-info d-md-none" data-toggle="modal" data-target="#searchModal" style="border-radius: 50%; background:#693234;; border:none;"><i class="fa fa-search" style=""></i></a>
+                    <a href="#searh_responsive" class="btn btn-info d-md-none" data-toggle="modal" data-target="#searchModal" style="border-radius: 50%; background:#174C7C; border:none;"><i class="fa fa-search" style=""></i></a>
                 </div>
             </nav>
             
@@ -601,10 +601,10 @@
             <br><br>
             <div class="row justify-content-center mx-auto" >    
                 <div class="social-icons">
-                    <a href="https://www.facebook.com/Gentongicecream/"  target="_blank"><i class="fab fa-facebook"></i></a>
-                    <a href="https://instagram.com/gentongicecream?igshid=10b120fidnx58"  target="_blank"><i class="fab fa-instagram "></i></a>
+                    <a href="https://www.facebook.com/"  target="_blank"><i class="fab fa-facebook"></i></a>
+                    <a href="https://instagram.com/"  target="_blank"><i class="fab fa-instagram "></i></a>
                     <a href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="https://twitter.com/kedaigentong?s=08" target="_blank"><i class="fab fa-twitter "></i></a>
+                    <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter "></i></a>
                 </div>
             </div>
             <div class="copyright text-center">
@@ -1504,12 +1504,7 @@
         });
         }, 4000);
     </script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-183852861-1');
-    </script>
+    
 </body>
 
 </html>
