@@ -322,9 +322,9 @@
                 icon: 'error',
                 showCancelButton: false,
                 confirmButtonText: "Tutup",
-                confirmButtonColor: '#6a3137'
+                confirmButtonColor: '#174C7C'
                 });
-                $(".swal2-modal").css('background-color', ' #FDD8AF')
+                $(".swal2-modal").css('background-color', ' #ffffff')
             }
             else
             {
@@ -372,9 +372,9 @@
                                 icon: 'error',
                                 showCancelButton: false,
                                 confirmButtonText: "Tutup",
-                                confirmButtonColor: '#6a3137'
+                                confirmButtonColor: '#174C7C'
                                 });
-                            $(".swal2-modal").css('background-color', ' #FDD8AF')
+                            $(".swal2-modal").css('background-color', ' #ffffff')
                         }
                         else if(response == 'not_taken'){
                             $('#loader').addClass('hidden'),
@@ -384,9 +384,9 @@
                                 icon: 'error',
                                 showCancelButton: false,
                                 confirmButtonText: "Tutup",
-                                confirmButtonColor: '#6a3137'
+                                confirmButtonColor: '#174C7C'
                                 });
-                            $(".swal2-modal").css('background-color', ' #FDD8AF')
+                            $(".swal2-modal").css('background-color', ' #ffffff')
                         }
                     },
                     error: function (response) {
@@ -839,9 +839,9 @@
                 icon: 'info',
                 showCancelButton: false,
                 confirmButtonText: "Tutup",
-                confirmButtonColor: '#6a3137'
+                confirmButtonColor: '#174C7C'
                 });
-                $(".swal2-modal").css('background-color', ' #FDD8AF')
+                $(".swal2-modal").css('background-color', ' #ffffff')
             } 
             else 
             {
@@ -1067,12 +1067,7 @@
           });
         }, 4000);
     </script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-183852861-1');
-    </script>
+    
 </body>
 
 </html>

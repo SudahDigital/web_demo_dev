@@ -335,7 +335,7 @@
     <div class="modal fade ml-1" id="modal_validasi" role="dialog">
         <div class="modal-dialog">
             <!-- Modal content-->
-            <div class="modal-content" style="background: #FDD8AF">
+            <div class="modal-content" style="background: #ffffff">
                 <div class="modal-body">
                     <div class="row justify-content-center">
                         <div class="col-sm-12">
