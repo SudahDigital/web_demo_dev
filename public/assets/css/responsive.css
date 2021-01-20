@@ -114,7 +114,7 @@
         line-height: 1.36;
         letter-spacing: normal;
         text-align: left;
-        color: #6a3137;
+        color: #174C7C;
       }
 
       #content .cara_belanaja .card-title{
@@ -202,7 +202,7 @@
         line-height: 1.36;
         letter-spacing: normal;
         text-align: left;
-        color: #6a3137;
+        color: #174C7C;
       }
 
       #content .cara_belanaja .card-title{
@@ -241,7 +241,7 @@
         width: 50%;
         height: 30rem;
         border-top-right-radius: 100%;
-        background:#5D2B30;
+        background:#174C7C;
         
    }
   
@@ -302,7 +302,7 @@
         line-height: 1.36;
         letter-spacing: normal;
         text-align: left;
-        color: #6a3137;
+        color: #174C7C;
       }
 
       #content .cara_belanaja .card-title{
@@ -368,7 +368,7 @@
 
     #content .product-price {
         float: left;
-        color:#6a3137 !important; 
+        color:#174C7C !important; 
         font-family: Open Sans;
         width: 100%; 
         font-size: 30px; 
@@ -377,7 +377,7 @@
       
       #content .product-price-header {
         float: left;
-        color:#6a3137 !important; 
+        color:#174C7C !important; 
         line-height: 1.36;
         font-size:18px;
         font-weight: bold;
@@ -431,7 +431,7 @@
         top:11.4rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
+        background:#174C7C;
         position: absolute;
    }
   
@@ -472,7 +472,7 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
+        /*background: #5D2B30;*/
     
     }
 
@@ -497,7 +497,7 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
+        color: #174C7C;
         background-color: #fff;
       }
 
@@ -825,7 +825,7 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
+        background-color:#174C7C;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -854,7 +854,7 @@
         top:15.1rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
+        /*background:#5D2B30;*/
         position: absolute;
    }
   
@@ -894,7 +894,7 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
+        /*background: #5D2B30;*/
     
     }
 
@@ -918,7 +918,7 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
+        color: #174C7C;
         background-color: #fff;
       }
 
@@ -1149,7 +1149,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -1176,14 +1175,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -1246,7 +1243,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -1275,7 +1271,6 @@
         top:15rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -1285,7 +1280,6 @@
     height: 19rem;
     top:34.2rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#5D2B30;*/
     position: absolute;
     z-index: ;
@@ -1315,8 +1309,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -1340,7 +1332,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -1567,7 +1558,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -1594,14 +1584,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -1664,7 +1652,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -1693,7 +1680,6 @@
         top:12.1rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -1729,8 +1715,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -1754,7 +1738,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -1991,7 +1974,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -2018,14 +2000,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -2088,7 +2068,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -2117,7 +2096,6 @@
         top:9.5rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -2127,7 +2105,6 @@
         height: 19rem;
         top:28.5rem;
         border-bottom-left-radius: 100%;
-        background:#ffcc94;
         /*background:#5D2B30;*/
         position: absolute;
         z-index: ;
@@ -2155,8 +2132,6 @@
     #sidebar ul li.active>a,
         a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     
@@ -2169,7 +2144,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -2426,7 +2400,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -2453,14 +2426,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -2524,7 +2495,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -2553,7 +2523,6 @@
         top:9.5rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -2563,7 +2532,6 @@
     height: 19rem;
     top:28.5rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#5D2B30;*/
     position: absolute;
     z-index: ;
@@ -2591,8 +2559,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     
@@ -2605,7 +2571,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -2865,7 +2830,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -2892,14 +2856,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -2963,7 +2925,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -2993,7 +2954,6 @@
         top:9.8rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -3003,7 +2963,6 @@
     height: 17rem;
     top:26.8rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#5D2B30;*/
     position: absolute;
     z-index: ;
@@ -3030,8 +2989,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -3054,7 +3011,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -3300,7 +3256,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -3327,14 +3282,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -3398,7 +3351,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -3427,7 +3379,6 @@
         top:9.3rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -3437,7 +3388,6 @@
     height: 18rem;
     top:26.3rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#5D2B30;*/
     position: absolute;
     z-index: ;
@@ -3463,8 +3413,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -3487,7 +3435,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -3732,7 +3679,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -3759,14 +3705,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -3830,7 +3774,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -3859,7 +3802,6 @@
         top:9.1rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -3869,7 +3811,6 @@
     height: 17rem;
     top:26.1rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#fff;*/
     position: absolute;
     z-index: ;
@@ -3895,8 +3836,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -3919,7 +3858,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -4163,7 +4101,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -4190,14 +4127,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -4261,7 +4196,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -4290,7 +4224,6 @@
         top:10.3rem;
         border-top-right-radius: 100%;
         /*background:#fff;*/
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -4300,7 +4233,6 @@
     height: 15rem;
     top:25.3rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#fff;*/
     position: absolute;
     z-index: ;
@@ -4327,8 +4259,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -4351,7 +4281,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -4599,7 +4528,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -4626,14 +4554,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -4697,7 +4623,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -4729,7 +4654,6 @@
     height: 19rem;
     top:6rem;
     border-top-right-radius: 100%;
-    background:#5D2B30;
     position: absolute;
    }
   
@@ -4739,7 +4663,6 @@
     height: 15rem;
     top:25.1rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#ffd3a3;*/
     position: absolute;
     z-index: ;
@@ -4765,8 +4688,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -4789,7 +4710,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -5033,7 +4953,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -5060,14 +4979,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -5131,7 +5048,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 
@@ -5159,7 +5075,6 @@
         height: 15rem;
         top:4.5rem;
         border-top-right-radius: 100%;
-        background:#5D2B30;
         position: absolute;
    }
   
@@ -5169,7 +5084,6 @@
     height: 15rem;
     top:19rem;
     border-bottom-left-radius: 100%;
-    background:#ffcc94;
     /*background:#ffd3a3;*/
     position: absolute;
     z-index: ;
@@ -5195,8 +5109,6 @@
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
         color: white;
-        background: #5D2B30;
-    
     }
 
     .nav-center img{
@@ -5219,7 +5131,6 @@
         border-radius: 5px;
         margin-bottom: 10px;
         margin-top: -15px;
-        color: #6a3137;
         background-color: #fff;
       }
 
@@ -5462,7 +5373,6 @@
       }
 
     #card-cart{
-    background-color:#6a3137;
     border-radius:14px; 
     padding-left:10px; 
     height:50px;
@@ -5489,14 +5399,12 @@
     }
     
     #card-detail p{
-    color: #6a3137;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 2px;
     }
     
     #card-detail h1{
-    color: #6a3137;
     font-weight: 900;
     }
 
@@ -5560,7 +5468,6 @@
 
     #card-detail .btn-default{
         color:#fff;
-        background-color:#6a3137;
         font-size:10px;
         font-weight: 800; 
         padding-top:5px; 

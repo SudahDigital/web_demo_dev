@@ -622,7 +622,7 @@
     <div class="modal fade" id="searchModal" role="dialog">
         <div class="modal-dialog">
         <!-- Modal content-->
-            <div class="modal-content" style="background: #FDD8AF">
+            <div class="modal-content" style="background: #2779B2">
                 <div class="modal-body">
                     <div class="row justify-content-center">
                         <form action="{{route('search.index')}}">

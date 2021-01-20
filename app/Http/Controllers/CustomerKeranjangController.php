@@ -505,7 +505,7 @@ class CustomerKeranjangController extends Controller
                                                 else{
                                                     $total=$detil->price * $detil->pivot->quantity;
                                                 }
-                                                echo'<h1 id="productPrice_kr'.$detil->id.'" style="color:#6a3137; !important; font-family: Open Sans;">Rp.&nbsp;'.number_format($total, 0, ',', '.').'</h1>
+                                                echo'<h1 id="productPrice_kr'.$detil->id.'" style="color:#174C7C; !important; font-family: Open Sans;">Rp.&nbsp;'.number_format($total, 0, ',', '.').'</h1>
                                                 <table width="10%">
                                                     <tbody>
                                                         <tr id="response-id'.$detil->id.'">
@@ -521,14 +521,14 @@ class CustomerKeranjangController extends Controller
                                                             }
                                                             echo'<input type="hidden" id="id_detil'.$detil->id.'" value="'.$detil->pivot->id.'">
                                                             <input type="hidden" id="jmlkr_'.$detil->id.'" name="quantity" value="'.$detil->pivot->quantity.'">    
-                                                            <button class="button_minus" onclick="button_minus_kr('.$detil->id.')" style="background:none; border:none; color:#693234;outline:none;"><i class="fa fa-minus" aria-hidden="true"></i></button>
+                                                            <button class="button_minus" onclick="button_minus_kr('.$detil->id.')" style="background:none; border:none; color:#174C7C;outline:none;"><i class="fa fa-minus" aria-hidden="true"></i></button>
                                                                 
                                                             </td>
                                                             <td width="10px" align="middle" valign="middle">
                                                                 <p id="show_kr_'.$detil->id.'" class="d-inline" style="">'.$detil->pivot->quantity.'</p>
                                                             </td>
                                                             <td width="10px" align="right" valign="middle">
-                                                                <button class="button_plus" onclick="button_plus_kr('.$detil->id.')" style="background:none; border:none; color:#693234;outline:none;"><i class="fa fa-plus" aria-hidden="true"></i></button>
+                                                                <button class="button_plus" onclick="button_plus_kr('.$detil->id.')" style="background:none; border:none; color:#174C7C;outline:none;"><i class="fa fa-plus" aria-hidden="true"></i></button>
                                                             </td>
                                                         
                                                         </tr>
@@ -591,9 +591,9 @@ class CustomerKeranjangController extends Controller
                             if($total_item > 0){
                             echo'<div class="input-group mb-2 mt-2">
                                     <input type="text" class="form-control" id="voucher_code" 
-                                    placeholder="Gunakan Kode Diskon" aria-describedby="basic-addon2" required style="background:#ffcc94;outline:none;">
+                                    placeholder="Gunakan Kode Diskon" aria-describedby="basic-addon2" required style="background:#ffffff;outline:none;">
                                     <div class="input-group-append" required>
-                                        <button class="btn " type="submit" onclick="btn_code()" style="background:#6a3137;outline:none;color:white;">Terapkan</button>
+                                        <button class="btn " type="submit" onclick="btn_code()" style="background:#174C7C;outline:none;color:white;">Terapkan</button>
                                     </div>
                                 </div>';
                             echo '<input type="hidden" class="form-control" id="voucher_code_hide">';    
@@ -738,7 +738,7 @@ class CustomerKeranjangController extends Controller
                                                 else{
                                                     $total=$detil->price * $detil->pivot->quantity;
                                                 }
-                                                echo'<h1 id="productPrice_kr'.$detil->id.'" style="color:#6a3137; !important; font-family: Open Sans;">Rp.&nbsp;'.number_format($total, 0, ',', '.').'</h1>
+                                                echo'<h1 id="productPrice_kr'.$detil->id.'" style="color:#174C7C; !important; font-family: Open Sans;">Rp.&nbsp;'.number_format($total, 0, ',', '.').'</h1>
                                                 <table width="10%">
                                                     <tbody>
                                                         <tr id="response-id'.$detil->id.'">
@@ -754,14 +754,14 @@ class CustomerKeranjangController extends Controller
                                                             }
                                                             echo'<input type="hidden" id="id_detil'.$detil->id.'" value="'.$detil->pivot->id.'">
                                                             <input type="hidden" id="jmlkr_'.$detil->id.'" name="quantity" value="'.$detil->pivot->quantity.'">    
-                                                            <button class="button_minus" onclick="button_minus_kr('.$detil->id.')" style="background:none; border:none; color:#693234;outline:none;"><i class="fa fa-minus" aria-hidden="true"></i></button>
+                                                            <button class="button_minus" onclick="button_minus_kr('.$detil->id.')" style="background:none; border:none; color:#174C7C;outline:none;"><i class="fa fa-minus" aria-hidden="true"></i></button>
                                                                 
                                                             </td>
                                                             <td width="10px" align="middle" valign="middle">
                                                                 <p id="show_kr_'.$detil->id.'" class="d-inline" style="">'.$detil->pivot->quantity.'</p>
                                                             </td>
                                                             <td width="10px" align="right" valign="middle">
-                                                                <button class="button_plus" onclick="button_plus_kr('.$detil->id.')" style="background:none; border:none; color:#693234;outline:none;"><i class="fa fa-plus" aria-hidden="true"></i></button>
+                                                                <button class="button_plus" onclick="button_plus_kr('.$detil->id.')" style="background:none; border:none; color:#174C7C;outline:none;"><i class="fa fa-plus" aria-hidden="true"></i></button>
                                                             </td>
                                                         
                                                         </tr>
@@ -813,9 +813,9 @@ class CustomerKeranjangController extends Controller
                             if($total_item > 0){
                             echo'<div class="input-group mb-2 mt-2">
                                     <input type="text" class="form-control" id="voucher_code" 
-                                    placeholder="Gunakan Kode Diskon" aria-describedby="basic-addon2" required style="background:#ffcc94;outline:none;">
+                                    placeholder="Gunakan Kode Diskon" aria-describedby="basic-addon2" required style="background:#ffffff;outline:none;">
                                     <div class="input-group-append" required>
-                                        <button class="btn " type="submit" onclick="btn_code()" style="background:#6a3137;outline:none;color:white;">Terapkan</button>
+                                        <button class="btn " type="submit" onclick="btn_code()" style="background:#174C7C;outline:none;color:white;">Terapkan</button>
                                     </div>
                                 </div>';
                             echo '<input type="hidden" class="form-control" id="voucher_code_hide">';    

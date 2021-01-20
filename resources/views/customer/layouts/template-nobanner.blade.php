@@ -244,7 +244,7 @@
                               
                         </div>
                     </form>
-                    <a href="#searh_responsive" class="btn btn-info d-md-none" data-toggle="modal" data-target="#searchModal" style="border-radius: 50%; background:#693234;; border:none;"><i class="fa fa-search" style=""></i></a>
+                    <a href="#searh_responsive" class="btn btn-info d-md-none" data-toggle="modal" data-target="#searchModal" style="border-radius: 50%; background:#174C7C; border:none;"><i class="fa fa-search" style=""></i></a>
                 </div>
                 
             </nav>
@@ -264,7 +264,7 @@
         <div class="modal-dialog">
         
             <!-- Modal content-->
-            <div class="modal-content" style="background: #FDD8AF">
+            <div class="modal-content" style="background: #2779B2">
                 <div class="modal-body">
                     <div class="row justify-content-center">
                         <form action="{{route('search.index')}}">
