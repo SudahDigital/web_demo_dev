@@ -5,7 +5,7 @@
             <div class="col-sm-12 col-md-12">
                 <nav aria-label="breadcrumb" class="">
                     <ol class="breadcrumb px-0 button_breadcrumb">
-                        <li class="breadcrumb-item" style="color: #6a3137 !important;margin-top:30px; font-size:20px;"><a href="{{ url('/') }}"><i class="fa fa-home"></i></a></li>
+                        <li class="breadcrumb-item" style="color: #174C7C !important;margin-top:30px; font-size:20px;"><a href="{{ url('/') }}"><i class="fa fa-home"></i></a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="margin-top:30px;">Sign Up</li>
                     </ol>
                 </nav>
