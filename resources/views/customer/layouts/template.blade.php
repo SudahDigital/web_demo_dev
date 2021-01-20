@@ -164,7 +164,7 @@
 
         .button_welcome {
             font-family: Open Sans;
-            background: linear-gradient(to bottom, #BB141D, #f70411); 
+            background: linear-gradient(to bottom, #174C7C, #2779B2); 
             color:white; 
             padding: 5px 15px; 
             border:none; 
@@ -500,8 +500,8 @@
     <div id="loader" class="lds-dual-ring hidden overlay_ajax"><img class="hidden" src="{{ asset('assets/image/preloader.gif') }}" width="80" alt="preloader"></div>
     
     <div id="my-welcome-message" class="">
-        <img src="{{ asset('assets/image/popup-cara-belanja-lg.jpg') }}" class="d-none d-md-block d-md-none w-100" alt="popup-cara-belanja-lg" style="">
-        <img src="{{ asset('assets/image/popup-cara-belanja.jpg') }}" class="d-md-none w-100 h-100" alt="popup-cara-belanja" style="">
+        <img src="{{ asset('assets/image/popup-cara-belanja-lg-web-demo.jpg') }}" class="d-none d-md-block d-md-none w-100" alt="popup-cara-belanja-lg-web-demo" style="">
+        <img src="{{ asset('assets/image/popup-cara-belanja-web-demo.jpg') }}" class="d-md-none w-100 h-100" alt="popup-cara-belanja-web-demo" style="">
     </div>
     
     <div class="wrapper">
