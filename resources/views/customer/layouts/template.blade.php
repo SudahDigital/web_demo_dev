@@ -1278,9 +1278,9 @@
                 icon: 'info',
                 showCancelButton: false,
                 confirmButtonText: "Tutup",
-                confirmButtonColor: '#6a3137'
+                confirmButtonColor: '#174C7C'
                 });
-                $(".swal2-modal").css('background-color', ' #FDD8AF')
+                $(".swal2-modal").css('background-color', ' #ffffff')
             } 
             else 
             {
